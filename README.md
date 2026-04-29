@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Agustín Cabrera
 
-### 🚀 Desarrollador Full-Stack en formación | Tecnologías Web | Apasionado por construir soluciones digitales
+### 🚀 Desarrollador Full-Stack | Programación | Tecnologías Web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cabreradev.vercel.app-black?style=for-the-badge&logo=vercel)](https://cabreradev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin--Cabrera-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Agustin-Cabrera)
@@ -54,7 +54,7 @@ Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con u
 
 ## 💼 Experiencia
 
-### 🛒 Vendedor en E-commerce — *Venta Mat SA* (Nov 2025 – Mar 2026)
+### 🛒 E-commerce — *Venta Mat SA* (Nov 2025 – Mar 2026)
 > Ramallo, Buenos Aires
 
 - Desarrollé **9 páginas web** optimizadas para mejorar la experiencia de usuario y aumentar conversiones para Venta Mat y 8 de sus asociados.
@@ -62,16 +62,6 @@ Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con u
 - Generé imágenes publicitarias con IA para mejorar la presencia visual de los productos.
 
 **Habilidades:** Mercado Libre Pro · Creación de sitios web · Google Shopping · AI para publicidad
-
----
-
-### 🎓 Profesor de Inglés Particular — *Clases presenciales y Zoom* (Jul 2019 – Oct 2020)
-> Remoto, Buenos Aires
-
-- Mejoré el nivel de inglés en un **75%** en 12 estudiantes en tan solo 5 meses con clases presenciales.
-- Logré que **9 alumnos** obtuvieran su certificación internacional nivel A2 al continuar virtualmente durante la pandemia.
-
-**Habilidades:** Enseñanza · Certificaciones internacionales · Adaptabilidad · Comunicación efectiva
 
 ---
 
@@ -99,8 +89,7 @@ Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con u
 |---|---|
 | 🇦🇷 Español | Nativo |
 | 🇺🇸 Inglés | Competente (B2+) |
-| 🤟 Lengua de Señas Argentina | Intermedio |
-| 🇨🇳 Chino Mandarín (Simplificado) | Básico |
+| 🇨🇳 Chino Mandarín (Simplificado) | Básico (A2) |
 
 ---
 
@@ -117,7 +106,7 @@ Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con u
 
 <div align="center">
 
-*"El código es poesía en movimiento — cada línea, una decisión."*
+*"Poesía en movimiento — cada línea, una decisión."*
 
 📬 **¿Hablamos?** → aguscabreratoyas@gmail.com
 
