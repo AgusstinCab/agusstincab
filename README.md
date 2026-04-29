@@ -15,8 +15,6 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con una fuerte orientación a resultados medibles y pasión por el desarrollo web. Actualmente me encuentro cursando la **Tecnicatura Universitaria en Programación** en la UTN, y cuento con experiencia práctica tanto en desarrollo de software como en e-commerce y enseñanza.
-
 - 📍 Villa Ramallo, Buenos Aires, Argentina
 - 📚 Estudiante activo en **UTN San Nicolás**
 - 🌱 En constante aprendizaje de nuevas tecnologías
@@ -52,55 +50,11 @@ Soy un programador Full-Stack (estudiante) de Villa Ramallo, Buenos Aires, con u
 
 ---
 
-## 💼 Experiencia
-
-### 🛒 E-commerce — *Venta Mat SA* (Nov 2025 – Mar 2026)
-> Ramallo, Buenos Aires
-
-- Desarrollé **9 páginas web** optimizadas para mejorar la experiencia de usuario y aumentar conversiones para Venta Mat y 8 de sus asociados.
-- Administré masivamente **~2600 productos** por tienda en Mercado Libre y Google Shopping.
-- Generé imágenes publicitarias con IA para mejorar la presencia visual de los productos.
-
-**Habilidades:** Mercado Libre Pro · Creación de sitios web · Google Shopping · AI para publicidad
-
----
-
-## 🎓 Educación
-
-| Institución | Título | Período | Lugar |
-|---|---|---|---|
-| **Universidad Tecnológica Nacional** | Tecnicatura Universitaria en Programación | Mar 2024 – Actualidad | San Nicolás, Bs. As. |
-| **Buenos Aires City Government** | Tecnicatura Superior en Desarrollo de Software | Mar 2024 – Ago 2024 | Buenos Aires |
-| **Colegio de la Mesopotamia** | Secundario (Orientación Cs. Naturales) | Egresado Ene 2023 | Entre Ríos |
-
----
-
-## 📜 Capacitación & Cursos
-
-- 🎨 **HTML & CSS Avanzado** — Rocket Code
-- 💼 **Microsoft Office 365** — YouTube
-- ☕ **Java FullStack** — Buenos Aires Aprende
-
----
-
-## 🌐 Idiomas
-
-| Idioma | Nivel |
-|---|---|
-| 🇦🇷 Español | Nativo |
-| 🇺🇸 Inglés | Competente (B2+) |
-| 🇨🇳 Chino Mandarín (Simplificado) | Básico (A2) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Agustín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1881&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1881&layout=compact&theme=dark&hide_border=true)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
