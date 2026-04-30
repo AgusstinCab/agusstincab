@@ -51,7 +51,10 @@
 
 <br clear="both">
 
-![pacman graph](https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+</p>
 
 ###
 
