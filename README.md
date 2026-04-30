@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cabreradev.vercel.app-black?style=for-the-badge&logo=vercel)](https://cabreradev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin--Cabrera-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Agustin-Cabrera)
-[![GitHub](https://img.shields.io/badge/GitHub-Agustin1881-181717?style=for-the-badge&logo=github)](https://github.com/agusstincab)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B54%209%2011%202158--7726-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5491121587726)
 
 </div>
