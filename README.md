@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 📍 Villa Ramallo, Buenos Aires, Argentina
+- 📍  Villa Ramallo, Buenos Aires, Argentina
 - 📚 Estudiante activo en **UTN San Nicolás**
 - 🌱 En constante aprendizaje de nuevas tecnologías
 - 🤝 Abierto a colaborar en proyectos open source y oportunidades laborales
