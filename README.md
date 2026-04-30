@@ -51,10 +51,8 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg">
-</picture>
+![pacman graph](https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![pacman graph](https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 ###
 
