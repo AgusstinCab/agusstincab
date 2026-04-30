@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Agustín Cabrera
 
-### 🚀 Desarrollador Full-Stack | Programación | Tecnologías Web
+### 🚀 Desarrollador Full-Stack | Programación | Tecnologías Web 🦄
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cabreradev.vercel.app-black?style=for-the-badge&logo=vercel)](https://cabreradev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin--Cabrera-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Agustin-Cabrera)
