@@ -1,82 +1,116 @@
 <div align="center">
-
-# Agustín Cabrera
-
-### Desarrollador Full-Stack&nbsp;·&nbsp;Programación&nbsp;·&nbsp;Tecnologías Web
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-cabreradev.vercel.app-0A0B0F?style=for-the-badge&logo=vercel&logoColor=D8A94E)](https://cabreradev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin--Cabrera-0A0B0F?style=for-the-badge&logo=linkedin&logoColor=D8A94E)](https://www.linkedin.com/in/Agustin-Cabrera)
-[![Email](https://img.shields.io/badge/Email-aguscabreratoyas%40gmail.com-0A0B0F?style=for-the-badge&logo=gmail&logoColor=D8A94E)](mailto:aguscabreratoyas@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B54%209%2011%202158--7726-0A0B0F?style=for-the-badge&logo=whatsapp&logoColor=D8A94E)](https://wa.me/5491121587726)
-
+  <img src="https://raw.githubusercontent.com/AgusstinCab/agusstincab/main/assets/logo-mark.svg" width="72" height="72" alt="Cabrera Dev">
+  <h1>Agustín Cabrera</h1>
+  <p><strong>Desarrollador Full-Stack</strong> · Programación · Tecnologías Web</p>
+  <p>
+    <a href="https://cabreradev.vercel.app">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/Agustin-Cabrera">LinkedIn</a> ·
+    <a href="mailto:aguscabreratoyas@gmail.com">Email</a> ·
+    <a href="https://wa.me/5491121587726">WhatsApp</a>
+  </p>
 </div>
-
 <br>
-
-## Sobre mí
-
-Programador Full-Stack en formación, con experiencia real desarrollando sitios web orientados
-a conversión y administrando de forma profesional catálogos de e-commerce, Mercado Libre y
-Google Shopping. Estudiante en la **Universidad Tecnológica Nacional** (Tecnicatura Universitaria
-en Programación) y egresado de la **Tecnicatura Superior en Desarrollo de Software** del Gobierno
-de la Ciudad de Buenos Aires.
-
-- 📍 Villa Ramallo, Buenos Aires, Argentina
-- 🌐 Portfolio y CV digital: [cabreradev.vercel.app](https://cabreradev.vercel.app)
-- 🌱 Combinando programación, desarrollo web y una mirada comercial
-- 🤝 Abierto a oportunidades laborales y colaboraciones
-
+Programador Full-Stack en formación, con experiencia real desarrollando sitios web orientados a
+conversión y administrando catálogos de e-commerce, Mercado Libre y Google Shopping. Estudiante
+en la Universidad Tecnológica Nacional (Tecnicatura Universitaria en Programación) y egresado de
+la Tecnicatura Superior en Desarrollo de Software del Gobierno de la Ciudad de Buenos Aires.
+Villa Ramallo, Buenos Aires, Argentina.
+ 
 <br>
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[NEXUS](https://github.com/AgusstinCab/nexus)** | Panel de monitoreo espacial que consume las APIs públicas de la NASA (imagen astronómica del día, asteroides cercanos a la Tierra), con buscador, favoritos y vista de explorador. | JavaScript, Vite, NASA API |
-| **[Velocity](https://github.com/AgusstinCab/velocity-data-solutions)** | Sitio multi-página de alquiler de autos clásicos: catálogo de modelos, formulario de reserva y contacto. | HTML, CSS |
-| **[Image Search](https://github.com/AgusstinCab/Image-Search)** | Buscador de imágenes conectado a la API de Unsplash. | JavaScript, Vite, Unsplash API |
-| **[CRUD Completo](https://github.com/AgusstinCab/CRUD-Completo)** | Sistema de gestión de estudiantes por consola: alta, baja, modificación y notas por cuatrimestre. | C++ |
-| **[Casino Web](https://github.com/AgusstinCab/Casino_Web)** | Casino de consola con Truco, Blackjack, Tragamonedas e Hipódromo, con registro e inicio de sesión de usuarios. | C# |
-
-<br>
-
-## Stack tecnológico
-
-**Lenguajes**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**Frontend / Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Bases de datos**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
-</p>
-
 <div align="center">
-
-**"Poesía en movimiento — cada línea, una decisión."**
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgusstinCab&show_icons=true&theme=dark&hide_border=true&bg_color=0A0B0F&title_color=D8A94E&icon_color=D8A94E&text_color=F2F3F5" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusstinCab&layout=compact&theme=dark&hide_border=true&bg_color=0A0B0F&title_color=D8A94E&text_color=F2F3F5&langs_count=8" />
+</div>
+<br>
+## Proyectos
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+**[NEXUS](https://github.com/AgusstinCab/nexus)**
+Panel de monitoreo espacial que consume las APIs públicas de la NASA (imagen astronómica del
+día, asteroides cercanos a la Tierra), con buscador, favoritos y vista de explorador.
+`JavaScript` `Vite` `NASA API`
+ 
+</td>
+<td width="50%" valign="top">
+**[Velocity](https://github.com/AgusstinCab/velocity-data-solutions)**
+Sitio multi-página de alquiler de autos clásicos: catálogo de modelos, formulario de reserva y
+contacto.
+`HTML` `CSS`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+**[Image Search](https://github.com/AgusstinCab/Image-Search)**
+Buscador de imágenes conectado a la API de Unsplash.
+`JavaScript` `Vite` `Unsplash API`
+ 
+</td>
+<td width="50%" valign="top">
+**[Casino Web](https://github.com/AgusstinCab/Casino_Web)**
+Casino de consola con Truco, Blackjack, Tragamonedas e Hipódromo, con registro e inicio de
+sesión de usuarios.
+`C#`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+**[CRUD Completo](https://github.com/AgusstinCab/CRUD-Completo)**
+Sistema de gestión de estudiantes por consola: alta, baja, modificación y notas por
+cuatrimestre.
+`C++`
+ 
+</td>
+<td width="50%" valign="top">
+&nbsp;
+ 
+</td>
+</tr>
+</table>
+<br>
+## Experiencia
+ 
+<table>
+<tr>
+<td width="30%" valign="top"><strong>Venta Mat SA</strong><br>Vendedor en E-commerce<br><sub>10/2025 – 03/2026 · Ramallo, Buenos Aires</sub></td>
+<td width="70%" valign="top">
+Desarrollé 9 páginas web optimizadas para mejorar la experiencia de usuario y aumentar
+conversiones, tanto para Venta Mat como para 8 de sus asociados. Administré de forma masiva
+aproximadamente 2.600 productos por página junto con las cuentas profesionales de Mercado
+Libre y Google Shopping de cada negocio.
+</td>
+</tr>
+<tr>
+<td width="30%" valign="top"><strong>Zoom</strong><br>Profesor de Inglés Particular<br><sub>07/2019 – 10/2020 · Remoto</sub></td>
+<td width="70%" valign="top">
+Mejora del nivel de inglés en un 75% en 12 estudiantes en 5 meses. Adapté las clases a
+modalidad virtual durante la pandemia y logré que 9 alumnos obtuvieran la certificación
+internacional nivel A2.
+</td>
+</tr>
+</table>
+## Formación
+ 
+- Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional (03/2024 – actualidad)
+- Tecnicatura Superior en Desarrollo de Software — Gobierno de la Ciudad de Buenos Aires (03/2024 – 08/2024)
+- Secundario Terminado — Colegio de la Mesopotamia
+<br>
+## Stack
+ 
+`JavaScript` `Java` `C++` `C#` `HTML` `CSS` `Bootstrap` `SQLite` `MySQL` `SQL Server`
+`Git` `GitHub` `Visual Studio` `VS Code` `PowerShell` `DBeaver`
+ 
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/agusstincab/agusstincab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+</div>
+<div align="center">
+*"Poesía en movimiento — cada línea, una decisión."*
+ 
 [aguscabreratoyas@gmail.com](mailto:aguscabreratoyas@gmail.com)
-
+ 
 </div>
